@@ -3,8 +3,10 @@ __pycache__/
 *.pyc
 venv/
 data/
-Testing/
-Training/
+*.zip
+*.pth
+
+
 *.zip
 *.7z
 *.rar
